@@ -1,0 +1,18 @@
+{
+
+    "train_feature": "/Users/justinnguyen/Downloads/Metalearning/training_data/feature_train.csv",
+    "train_time": "/Users/justinnguyen/Downloads/Metalearning/training_data/ytime_train.csv",
+    "train_status": "/Users/justinnguyen/Downloads/Metalearning/training_data/ystatus_train.csv",
+    "val_feature": "/Users/justinnguyen/Downloads/Metalearning/training_data/feature_val.csv",
+    "val_time": "/Users/justinnguyen/Downloads/Metalearning/training_data/ytime_val.csv",
+    "val_status": "/Users/justinnguyen/Downloads/Metalearning/training_data/ystatus_val.csv",
+    "lr_inner": 0.01,
+    "lr_outer": 0.0001,
+    "shots_n": 2,
+    "batch_n": 1,
+    "n_inner": 5,
+    "reg_scale": 0.1,
+    "iters": 1,
+    "model_path": "model/"
+
+ }
