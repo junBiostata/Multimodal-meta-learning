@@ -1,0 +1,22 @@
+{   
+    "train_feature_multi": "/Users/justinnguyen/Downloads/Metalearning/training_data/feature_train.csv",
+    "train_time_multi": "/Users/justinnguyen/Downloads/Metalearning/training_data/ytime_train.csv",
+    "train_status_multi": "/Users/justinnguyen/Downloads/Metalearning/training_data/ystatus_train.csv",
+    "train_feature_target": "/Users/justinnguyen/Downloads/Metalearning/final_data/feature_train.csv",
+    "train_time_target": "/Users/justinnguyen/Downloads/Metalearning/final_data/ytime_train.csv",
+    "train_status_target": "/Users/justinnguyen/Downloads/Metalearning/final_data/ystatus_train.csv",
+    "val_feature": "/Users/justinnguyen/Downloads/Metalearning/training_data/feature_val.csv",
+    "val_time": "/Users/justinnguyen/Downloads/Metalearning/training_data/ytime_val.csv",
+    "val_status": "/Users/justinnguyen/Downloads/Metalearning/training_data/ystatus_val.csv",
+    "model_path": "model/",
+    "feature_size": 744,
+    "batch_size": 5,
+    "lr": 0.001,
+    "num_epo": 25,
+    "keep_prob": 1,
+    "reg_scale": 0.1,
+    "select_size": 9
+
+
+
+ }

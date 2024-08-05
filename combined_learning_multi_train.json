@@ -1,0 +1,23 @@
+{
+    "train_ct_feature": "/Users/justinnguyen/Downloads/Metalearning/training_data/ct_feature_train.csv",
+    "train_hne_feature": "/Users/justinnguyen/Downloads/Metalearning/training_data/hne_feature_train.csv",
+    "train_time": "/Users/justinnguyen/Downloads/Metalearning/training_data/ytime_train.csv",
+    "train_status": "/Users/justinnguyen/Downloads/Metalearning/training_data/ystatus_train.csv",
+    "train_ct_feature_target": "/Users/justinnguyen/Downloads/Metalearning/final_data/ct_feature_train.csv",
+    "train_hne_feature_target": "/Users/justinnguyen/Downloads/Metalearning/final_data/hne_feature_train.csv",
+    "train_time_target": "/Users/justinnguyen/Downloads/Metalearning/final_data/ytime_train.csv",
+    "train_status_target": "/Users/justinnguyen/Downloads/Metalearning/final_data/ystatus_train.csv",
+    "val_ct_feature": "/Users/justinnguyen/Downloads/Metalearning/training_data/ct_feature_val.csv",
+    "val_hne_feature": "/Users/justinnguyen/Downloads/Metalearning/training_data/hne_feature_val.csv",
+    "val_time": "/Users/justinnguyen/Downloads/Metalearning/training_data/ytime_val.csv",
+    "val_status": "/Users/justinnguyen/Downloads/Metalearning/training_data/ystatus_val.csv",
+    "model_path": "model/",
+    "ct_feature_size": 744,
+    "hne_feature_size": 281,
+    "batch_size": 5,
+    "lr": 0.001,
+    "num_epo": 1,
+    "keep_prob": 1,
+    "reg_scale": 0.1,
+    "select_size": 9
+}
